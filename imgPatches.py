@@ -10,7 +10,7 @@ import os.path as osp
 
 from scipy import misc
 
-from img_basics import fileImageIo as imgio
+import fileImageIo as imgio
 
 #define the size of the patch
 patch_size = 299
