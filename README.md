@@ -1,1 +1,3 @@
 Files to process images...
+
+imgPatches.py -> from a source folder, with images, it will do a slide window based on the distance and as result, will generate the patch with the size provided. The purpose of it is to generate patches with the specific size to train Deep Learning models.
